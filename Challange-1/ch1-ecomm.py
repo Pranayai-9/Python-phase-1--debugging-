@@ -139,3 +139,6 @@ def calculate_bill(products, prices, quantities, customer):
     unique_products = len(set(products))
 
     return total, discount, final_amount, unique_products
+
+
+
