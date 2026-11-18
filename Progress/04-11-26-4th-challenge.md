@@ -1,4 +1,4 @@
-GitHub Progress Report - Disaster Incident Processing & Debugging Exercise
+Debugging Progress Review - Disaster Incident Processing & Debugging Exercise
 Overview
 
 Worked on a disaster incident reporting application designed to process incident records, validate data quality, and generate operational reports. The exercise focused on debugging existing logic, identifying data integrity issues, and extending the reporting capabilities to better reflect real-world disaster intelligence workflows.
